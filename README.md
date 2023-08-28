@@ -1,5 +1,6 @@
 # HalfTone
 (Input Image, x/y pixel delta, pattern size lower/upper bound, size/location/rotation tolerances, colorized?) -> (Image drawn of other pattern image)
+![Example Product](https://i.imgur.com/k9Tn5P6.jpeg)
 
 # Purpose
 My friend sent me a [video](https://www.instagram.com/p/CwapMK6gOUB/) someone on Instagram posted of their "halftone software which is better than Photoshop". I'm not very involved in the image processing or graphic design world so I didn't formally know exactly what the terminology meant, or what was happening behind the scenes. Intuitively, however, I felt like I could recreate what he was doing not only easily but **better** within a single night. So this is my attempt to do that. My version is better than the Instagram user's because mine allows for colorization, pattern size "fuzz", pattern location "fuzz", and pattern rotation randomization.
